@@ -4,6 +4,10 @@
 
 รองรับ **Apple Silicon (arm64) เท่านั้น**, macOS **13 Ventura ขึ้นไป** ไม่รองรับ Intel โควตานี้เป็นของ Codex ไม่ใช่ทุกโมเดลใน ChatGPT และขึ้นกับสิทธิ์บัญชีของผู้ใช้
 
+## แสดงหรือซ่อน 5H
+
+คลิก Codex Usage บน Menu Bar แล้วเลือก **Show 5H Limit** เครื่องหมายถูกหมายถึงแสดง 5H คลิกอีกครั้งเพื่อซ่อนและให้เหลือเฉพาะ WEEK แอพจำการตั้งค่านี้ไว้เมื่อเปิดครั้งถัดไป โดยค่าเริ่มต้นแสดงทั้งสองรายการ
+
 ## ดาวน์โหลดไฟล์ไหน
 
 สำหรับ Mac ชิป Apple Silicon (M1 ขึ้นไป) และ macOS 13 Ventura ขึ้นไป ให้โหลด **Codex-Usage-arm64.dmg** จาก [ลิงก์ดาวน์โหลดรุ่นล่าสุด](https://github.com/ponglerdluk/codex-usage-menubar/releases/latest/download/Codex-Usage-arm64.dmg)
